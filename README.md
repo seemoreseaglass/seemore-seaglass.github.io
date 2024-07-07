@@ -11,7 +11,7 @@
 - [Speaking Language](#speaking-language)
 
 # About me
-I'm a software engineer located in Tokyo.
+I'm a technical support representative located in Tokyo.
 Proficient in Python and SQL, and passionate about power of data🔥
 
 Please feel free to contact👇
@@ -34,7 +34,11 @@ Please feel free to contact👇
 - numpy
 
 # Certification
+- 2024 AWS Certified Solutions Architect – Associate
 - 2022 CS50 Harvard University
+- 2021 IT Passport
+- 2019 TOEIC(L&R) 855
+
 
 # Education
 - 2015-2019 BSc.in Chemistry
